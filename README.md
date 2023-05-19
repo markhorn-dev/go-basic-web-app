@@ -10,3 +10,10 @@ A basic golang web application with a home page "/" and an about page "/about"
 * wrapping template with a layout
 * passing data to templates
 * using configuration to store templates
+
+### Instructions
+```
+git clone https://github.com/markhorn-dev/go-basic-web-app.git
+cd go-basic-web-app
+go run ./cmd/web
+```
